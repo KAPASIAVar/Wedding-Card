@@ -8,7 +8,7 @@ const SoundEngine = {
     loopTimer: null,
     stepIndex: 0,
     // URL-encode spaces in filenames
-    customAudioSrc: 'track2.mp3', 
+    customAudioSrc: '', 
     audio: null,
 
     init() {
